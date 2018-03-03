@@ -4,9 +4,9 @@ using namespace std;
 
 /*
 
---Yasin Burak YEGİN--
---Bilgisayar ve Bilişim Kulubü C++ Kampı--
---1.Soru--
+Yasin Burak YEGİN
+Bilgisayar ve Bilişim Kulubü C++ Kampı
+1.Soru
 
 */
 

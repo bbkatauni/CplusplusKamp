@@ -2,8 +2,6 @@
 ## C++ Kampı Soru Çözümleri
 
 ### Sorular
-Sorular
-
 
 1) Kullanıcıdan 3 sayı alın. Sayılardan küçük olanlardan 2 tanesini toplayın. Ve sonucu en büyük sayı ile karşılaştırın. Eğer 2 sayının toplamı, en büyük sayıdan büyük ise ekrana “Tebrikler.” değilse “ Maalesef. ” yazsın.
 

@@ -1,2 +1,2 @@
-#Atatürk Üniversitesi Bilgisayar ve Bilişim Kulübü
-##C++ Kampı Soru Çözümleri
+# Atatürk Üniversitesi Bilgisayar ve Bilişim Kulübü
+## C++ Kampı Soru Çözümleri

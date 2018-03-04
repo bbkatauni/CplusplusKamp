@@ -16,7 +16,7 @@ Süre bilgisini kullanıcıdan dakika türünde alın ve ücreti ekrana bastır�
 
 6) Ocak ayının 1. Gününde doğan bir bebek tek numaralı ayların sonunda ağırlığının %7 sini kaybediyor, çift numaralı ayların sonunda ağırlığının %9 u kadar kilo alıyor. Bu bebeğin kaç ay sonra doğum ağırlığının %10’undan fazla olacağını bulup ekrana yazdırın. Bebeğin başlangıç kilosunu 100 olarak kabul edebilirsiniz.
 
-7)  5 Katlı bir apartmanın her dairesinde farklı aileler kalmaktadır. Bu ailelerin kaç kişi yaşadıklarını kullanıcıdan alıp bir diziye atın. Daha sonra en kalabalık aileyi bulup ekrana yazdırın. 
+7)  5 Katlı bir apartmanın her dairesinde farklı aileler kalmaktadır. Bu ailelerin kaç kişi yaşadıklarını kullanıcıdan alıp bir diziye atın. Daha sonra en kalabalık aileyi bulup ekrana yazdırın. Her bir daire de farklı sayıda aile kaldığını varsayınız
 
 8) 100  boyutlu bir dizi oluşturun. Bu dizi içine 1-10 arasında rastgele sayılar atayın. 5 rakamının kaç defa kullanıldığını bulup ekrana yazdırın.
 

@@ -1,5 +1,5 @@
 #include<iostream>
-#include<math.h>
+#include<math.h>//sqrt() 
 using namespace std;
 int main(int argc,char* argv[]){
 	int sayi1,sayi2;

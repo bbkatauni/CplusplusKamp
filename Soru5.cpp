@@ -1,30 +1,22 @@
-#include <iostream>
-#include <math.h>
+#include<iostream>
+#include<math.h>//sqrt() 
 using namespace std;
-
-int main(int argc, char** argv) {
+int main(int argc,char* argv[]){
 	int sayi1,sayi2;
-	cout<<"1. sayiyi giriniz:";
+	double karekokT=0;
+	cout<<"Lütfen iki adet sayı girin:";
 	cin>>sayi1;
-	cout<<"2. sayiyi giriniz:";
 	cin>>sayi2;
-	int i;
-	double a;
-	if(sayi1>=sayi2){
-		for(i=sayi2;i<=sayi1;i++){
-			a=(double)sqrt(i);
-			cout<<i<<" sayisinin "<<"karekoku:"<<a;
+	if(sayi1>sayi2){
+		for(int i=sayi2;i<=sayi1;i++){
+			karekokT+=sqrt(i);
 		}
 	}
-	else if(sayi2>=sayi1){
-		for(i=sayi1;i<=sayi2;i++){
-			a=(double)sqrt(i);
-			cout<<i<<" sayisinin "<<"karekoku:"<<a<<"\n";
+	else{
+		for(int i=sayi1;i<=sayi2;i++){
+			karekokT+=sqrt(i);
 		}
 	}
-	
-	
-	
-	
+	cout<<"Belirtilen aralıktaki sayıların karekökleri toplamı="<<karekokT<<endl;
 	return 0;
 }

@@ -23,3 +23,9 @@ Süre bilgisini kullanıcıdan dakika türünde alın ve ücreti ekrana bastır�
 9) Fonksiyonları kullanarak bir hesap makinesi yapın.
 
 10) Klavyeden bir karakter giriniz. Girilen karakterin ascii değerini ekrana yazdıran bir program yazınız.
+
+11) Faktöriyel hesaplayan bir recursive fonksiyon yazın.
+
+12) Klavyeden girilen bir karakter dizisini (String) gösterici (Pointer) yardımı ile ekrana yazdırın.
+
+13) 10 elemanlı bir dizi atayın ve bu dizinin başlangıç adresini bir göstericiye (Pointer) atın. ++*ptr, *++ptr, *ptr++, ++*ptr++, ++ptr++, &ptr, *&ptr, işlemlerini bu göstericiye uygulayın ve sırası ile ekrana yazdırın. 

@@ -26,6 +26,6 @@ Süre bilgisini kullanıcıdan dakika türünde alın ve ücreti ekrana bastır�
 
 11) Faktöriyel hesaplayan bir recursive fonksiyon yazın.
 
-12) Klavyeden girilen bir karakter dizisini (String) gösterici (Pointer) yardımı ile ekrana yazdırın.
+12) 10 elemanlı bir dizi atayın ve bu dizinin başlangıç adresini bir göstericiye (Pointer) atın. ++*ptr, *++ptr, *ptr++, ++*ptr++, ++ptr++, &ptr, *&ptr, işlemlerini bu göstericiye uygulayın ve sırası ile ekrana yazdırın. 
 
-13) 10 elemanlı bir dizi atayın ve bu dizinin başlangıç adresini bir göstericiye (Pointer) atın. ++*ptr, *++ptr, *ptr++, ++*ptr++, ++ptr++, &ptr, *&ptr, işlemlerini bu göstericiye uygulayın ve sırası ile ekrana yazdırın. 
+13) Programda önceden gösterici dizisi olarak tanımlanmış olan 10 adet ismin içinde klavyeden girilen ismin var olup olmadığı bulan programı yazalım

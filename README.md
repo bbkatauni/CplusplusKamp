@@ -1,7 +1,7 @@
 # Atatürk Üniversitesi Bilgisayar ve Bilişim Kulübü
 ## C++ Kampı Soru Çözümleri
 
-### Sorular
+### PartI Sorular
 
 1) Kullanıcıdan 3 sayı alın. Sayılardan küçük olanlardan 2 tanesini toplayın. Ve sonucu en büyük sayı ile karşılaştırın. Eğer 2 sayının toplamı, en büyük sayıdan büyük ise ekrana “Tebrikler.” değilse “ Maalesef. ” yazsın.
 
@@ -29,3 +29,15 @@ Süre bilgisini kullanıcıdan dakika türünde alın ve ücreti ekrana bastır�
 12) 10 elemanlı bir dizi atayın ve bu dizinin başlangıç adresini bir göstericiye (Pointer) atın. ++*ptr, *++ptr, *ptr++, ++*ptr++, ++ptr++, &ptr, *&ptr, işlemlerini bu göstericiye uygulayın ve sırası ile ekrana yazdırın. 
 
 13) Programda önceden gösterici dizisi olarak tanımlanmış olan 10 adet ismin içinde klavyeden girilen ismin var olup olmadığı bulan programı yazalım
+
+
+## Part II Sorular
+
+1)    Kullanıcıdan saat, dakika, saniye bilgilerini alın. Saat, dakika, saniye adlarında zaman sınıfı içerisinde private olarak değişkenleri tanımlayın. Zamanı gösteren bir fonksiyon yardımı ile ekrana basın.
+2)    Kullanıcıdan bir öğrencinin adını, Tc kimlik numarasını, bölümünü öğrenciler sınıfında private değişkenler olarak alınız. Goruntule() ve al() adında fonksiyonlar tanımlayınız. Ekrana 3 Öğrencinin bilgilerini gösteriniz.
+3)    Bir sınıf içerisinde private olarak tanımladığınız ad, soyad, yas değişkenlerine sınıf içerisinde başlangıç değeri veriniz. Bu Bilgileri ekrana yazınız.
+4)    Bir sınıf içerisinde not adında private bir değişken tanımlayınız. Bu sınıf al ( ) isimli friend fonksiyonu kullanıcıdan 3 öğrencinin not bilgilerini alsın ve bunları yine bu sınıfa friend olan göster ( ) fonksiyonu ile ekrana yazın.
+5)    Bir sınıf tanımlayın. Yapıcı ve yıkıcı fonksiyonların içerisine kendinize göre bir şeyler yazınız. Sırasıyla 3 nesne oluşturarak yapıcı ve yıkıcı fonksiyonların çalışma mantığını anlamaya çalışın.
+6)    Ev adında bir sınıf tanımlayın. İçerisinde o evin daire numarasını, bulunduğu ili, kaçıncı katta olduğunu, kiralama ücretinin ne kadar olduğunu yapıcı fonksiyon ile değer atayarak bir fonksiyon yardımı ile ekrana yazdırınız. Kullanıcının eğer ev aramaya devam etmek istiyorsa evet-hayır şeklinde doğrulayın. Evet ise kullanıcının karşısına yeni evler gelsin. Hayır derse, programı bitirin.
+
+
